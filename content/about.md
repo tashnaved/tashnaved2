@@ -16,9 +16,3 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-Vimeo shortcode: `
-{{< vimeo 146022717 >}}
-`
-
-why cant i see this text
