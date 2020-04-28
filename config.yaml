@@ -13,6 +13,9 @@ params:
   footer:
     content: "&copy; All rights reserved."
     links:
+    - text: Twitter
+      url: https://twitter.com/lowenergycomic
+      new_window: true
     - text: Made with Stackbit
       url: https://www.stackbit.com
       new_window: true
