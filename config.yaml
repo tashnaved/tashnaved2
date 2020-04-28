@@ -6,7 +6,7 @@ params:
   header:
     title: TN
     tagline: ''
-    logo_img: "/images/tash.jpg"
+    logo_img: "/images/transparentTash.png"
     bg_img: ''
     has_nav: true
     has_social: true
