@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Shows"
+[menu.main]
+weight = 2
 
 +++
 The two shows linked below are produced (and usually hosted) by Tash in Ottawa.
