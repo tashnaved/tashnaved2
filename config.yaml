@@ -7,7 +7,7 @@ params:
     title: TN
     tagline: ''
     logo_img: "/images/transparentTash.png"
-    bg_img: ''
+    bg_img: "/images/CapitalComedy_Pub101_137.jpg"
     has_nav: true
     has_social: true
   footer:
