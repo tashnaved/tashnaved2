@@ -17,8 +17,6 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-_Thank You for reading!_
-
 Vimeo shortcode: `
 {{< vimeo 146022717 >}}
 `
