@@ -23,6 +23,7 @@ weight = 2
 
 ***
 
-**PRESS**
+**PRESS | PODCASTS**
 
 * Apt613 article about [LAUGH THERAPY](https://apt613.ca/laugh-therapy/ "LT apt613 ")
+* Guest on [Scene Partners ](https://podcasts.apple.com/us/podcast/sex-advice-im-good-at-it-ft-tash-naved/id1289672118?i=1000400968733)with Christina Muehlberger and Ryan Mulligan
