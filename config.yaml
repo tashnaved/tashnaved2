@@ -4,7 +4,7 @@ baseURL: "/"
 params:
   palette: red
   header:
-    title: TASH NAVED
+    title: TN
     tagline: ''
     logo_img: ''
     bg_img: ''
