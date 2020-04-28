@@ -29,7 +29,7 @@ The two shows linked below are produced (and usually hosted) by Tash in Ottawa.
 <th>more info</th> </tr>
 
 <tr> <td>15th april | 830 pm</td><td>Ottawa</td>  
-<td><a href="www.google.com">_click for tickets_</a></td> </tr>
+<td><a href="https://www.google.com">_click for tickets_</a></td> </tr>
 
 <tr> <td>15th april | 830 pm</td> <td>Ottawa</td>  
 <td>more info (no links)</td> </tr>
