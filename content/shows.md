@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Shows"
 [menu.main]
-weight = 2
+weight = 1
 
 +++
 The two shows linked below are produced (and usually hosted) by Tash in Ottawa.
