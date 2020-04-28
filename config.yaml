@@ -16,8 +16,8 @@ params:
     - text: Twitter
       url: https://twitter.com/lowenergycomic
       new_window: true
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: Instagram
+      url: https://www.instagram.com/lowenergycomic/
       new_window: true
 disableKinds:
 - RSS
