@@ -26,6 +26,7 @@ fields:
     required: true
 pages:
 - content/about.md
+- content/embedded-video.md
 - content/media.md
 - content/shows.md
 - content/style-guide.md
