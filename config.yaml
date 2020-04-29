@@ -11,7 +11,7 @@ params:
     has_nav: true
     has_social: true
   footer:
-    content: "&copy; All rights reserved (Tash Naved)"
+    content: "&copy; All rights reserved (Tash Naved) || "
     links:
     - text: Twitter
       url: https://twitter.com/lowenergycomic
