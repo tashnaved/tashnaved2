@@ -16,7 +16,7 @@ Another way to list dates and links
 
 ***
 
-### The two shows linked below are produced (and usually hosted) by Tash in Ottawa
+### Producer/Host:
 
 [ALL YOU CAN LAUGH](https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622 "AYCL")
 
