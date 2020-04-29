@@ -35,3 +35,10 @@ The two shows linked below are produced (and usually hosted) by Tash in Ottawa.
 <td>more info (no links)</td> </tr>
 
 </table>
+
+### Unordered Lists
+
+Another way to list dates and links 
+
+* 15th April | 830 pm | Ottawa | [Venue ](https://www.instagram.com/comedyottawa/)
+* 15th April | 830 pm | Ottawa | [Venue ](https://www.instagram.com/comedyottawa/)
