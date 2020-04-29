@@ -7,6 +7,6 @@ title = "Video "
 weight = 3
 
 +++
-[**back**](https://tashnaved.netlify.app)
+[**\[home\]**](https://tashnaved.netlify.app/ "home")
 
     {{< youtube w7Ft2ymGmfc >}}
