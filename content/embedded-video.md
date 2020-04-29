@@ -2,9 +2,8 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Embedded Video "
+title = "Video "
 [menu.main]
-name = "Video "
 weight = 3
 
 +++
