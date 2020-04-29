@@ -6,7 +6,7 @@ subtitle: ''
 menu:
   main:
     name: Contact
-    weight: 4
+    weight: 5
 
 ---
 To get in touch fill the form below.

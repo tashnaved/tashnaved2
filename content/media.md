@@ -5,7 +5,7 @@ subtitle = ""
 title = "Media "
 [menu.main]
 name = "Media"
-weight = 3
+weight = 4
 
 +++
 **VIDEOS**
