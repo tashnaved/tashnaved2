@@ -9,7 +9,6 @@ excerpt: Hiking is sometimes referred to as such. This specifically refers to di
 layout: post
 subtitle: In this post describe how you built this site and its purpose
 hide_header: false
-draft: true
 
 ---
 ## How the site was built
