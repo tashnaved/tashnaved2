@@ -7,7 +7,7 @@ title = "Shows"
 weight = 2
 
 +++
-### Other Upcoming Dates:
+### Upcoming Dates:
 
 <table>
 
@@ -24,7 +24,7 @@ weight = 2
 
 </table>
 
-### Other Upcoming dates 
+### Upcoming dates 
 
 Another way to list dates and links 
 
