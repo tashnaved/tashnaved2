@@ -18,7 +18,7 @@ Date | Day | Time | Venue | City | Link
 
 ### Producer/Host
 
-The two shows linked below are produced by Tash. Click on the respective link for more information/tickets. 
+The two shows linked below are produced by Tash in Ottawa. Click on the respective link for more information/tickets.
 
 [ALL YOU CAN LAUGH](https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622 "AYCL") (every other Friday)
 
