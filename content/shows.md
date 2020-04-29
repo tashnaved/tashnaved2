@@ -7,26 +7,9 @@ title = "Shows"
 weight = 2
 
 +++
-### Upcoming Dates:
+### Upcoming dates
 
-<table>
-
-<caption>click on the link for time, address and tickets</caption>
-
-<tr><th>date and time</th> <th>city</th>  
-<th>more info</th> </tr>
-
-<tr> <td>15th april | 830 pm</td><td>Ottawa</td>  
-<td><a href="[https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622](https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622 "https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622")">_click for tickets_</a></td> </tr>
-
-<tr> <td>15th april | 830 pm</td> <td>Ottawa</td>  
-<td>more info (no links)</td> </tr>
-
-</table>
-
-### Upcoming dates 
-
-Another way to list dates and links 
+Another way to list dates and links
 
 * 15th April | 830 pm | Ottawa | [Venue ](https://www.instagram.com/comedyottawa/)
 * 15th April | 830 pm | Ottawa | [Venue ](https://www.instagram.com/comedyottawa/)
