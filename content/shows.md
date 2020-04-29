@@ -16,13 +16,15 @@ Another way to list dates and links
 
 ***
 
-### Producer/Host:
+### Producer/Host
 
-[ALL YOU CAN LAUGH](https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622 "AYCL")
+The two shows linked below are produced by Tash. Click on the respective links for more information/tickets. 
+
+[ALL YOU CAN LAUGH](https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622 "AYCL") (every other Friday)
 
 ![](/images/banner_aycl.jpg)
 
-[LAUGH THERAPY](https://www.eventbrite.ca/e/laugh-therapy-tickets-83344871755 "LT")
+[LAUGH THERAPY](https://www.eventbrite.ca/e/laugh-therapy-tickets-83344871755 "LT") (one Friday a month)
 
 ![](/images/banner.jpg)
 
