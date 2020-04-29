@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Shows"
 [menu.main]
-weight = 2
+weight = 3
 
 +++
 ### Upcoming dates
