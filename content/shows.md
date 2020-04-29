@@ -9,10 +9,10 @@ weight = 2
 +++
 ### Upcoming dates
 
-Another way to list dates and links
+Date | Day | Time | Venue | City | Link
 
-* 15th April | 830 pm | Ottawa | [Venue ](https://www.instagram.com/comedyottawa/)
-* 15th April | 830 pm | Ottawa | [Venue ](https://www.instagram.com/comedyottawa/)
+* 15th April | Wednesday | 830 pm | Wellington Eatery | Ottawa | [Link](https://www.eventbrite.ca/o/comedy-ottawa-10826961900)
+* 15th April | Wednesday | 830 pm | Whispers Pub | Ottawa | [Link](https://www.eventbrite.ca/o/comedy-ottawa-10826961900)
 
 ***
 
