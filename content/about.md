@@ -8,7 +8,7 @@ menu:
     weight: 2
 
 ---
-![](/images/CapitalComedy_Pub101_137.jpg)
+![](/images/lowresTash.jpg)
 
 **Tash Naved** is a comedian/producer based out of Ontario, Canada who has been _in the game_ since 2013. He finds lying about himself online in third person excruciating and prefers that you [hear him lie about himself in person](https://tashnaved.netlify.app/shows/ "upcomingDates").
 
