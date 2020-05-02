@@ -7,12 +7,12 @@ title = "Shows"
 weight = 3
 
 +++
-### Upcoming dates
+### Upcoming Dates
 
-Date | Day | Time | Venue | City | Link
+Date | Time | Venue | City
 
-* 15th April | Wednesday | 830 pm | Wellington Eatery | Ottawa | [Link](https://www.eventbrite.ca/o/comedy-ottawa-10826961900)
-* 15th April | Wednesday | 830 pm | Whispers Pub | Ottawa | [Link](https://www.eventbrite.ca/o/comedy-ottawa-10826961900)
+* Wednesday 15th April | 830 pm | Wellington Eatery | Ottawa
+* Wednesday 15th April | 830 pm | Whispers Pub | Ottawa
 
 ***
 
@@ -22,10 +22,10 @@ The two shows linked below are produced by Tash in Ottawa. Click on the respecti
 
 [ALL YOU CAN LAUGH](https://www.eventbrite.ca/e/all-you-can-laugh-tickets-39145960622 "AYCL") (every other Friday)
 
-![](/images/banner_aycl.jpg)
+![](/images/8.5x11 superlowres.jpg)
 
 [LAUGH THERAPY](https://www.eventbrite.ca/e/laugh-therapy-tickets-83344871755 "LT") (one Friday a month)
 
-![](/images/banner.jpg)
+![](/images/8.5x11 super lowres.jpg)
 
 ***
